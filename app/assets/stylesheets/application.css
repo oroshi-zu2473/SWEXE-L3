@@ -72,8 +72,8 @@ a.btn_04:hover {
 
 .list li {
   margin-top: 50px;
-  margin-left: 10px;
-  margin-right: 100px; /* 各アイテム間の間隔を設定 */
+  margin-left: 50px;
+  margin-right: 150px; /* 各アイテム間の間隔を設定 */
 }
 
 #content {
